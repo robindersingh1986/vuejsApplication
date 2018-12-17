@@ -1,11 +1,5 @@
 <template>
   <div id="app">
-    <aside>
-      <ul>
-        <li><a href="#/vue">Vue</a></li>
-        <li><a href="#/">Home</a></li>
-      </ul>
-    </aside>
     <!-- <img src="./assets/logo.png"> -->
     <router-view/>
   </div>
