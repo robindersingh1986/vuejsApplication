@@ -1,7 +1,7 @@
-npm install -g vue-cli
-vue init webpack appname
-cd appname
-npm install yarn -g
-yarn
-yarn run dev
-yarn run build
+npm install -g vue-cli <br/>
+vue init webpack appname <br/>
+cd appname <br/>
+npm install yarn -g <br/>
+yarn <br/>
+yarn run dev <br/>
+yarn run build <br/>
