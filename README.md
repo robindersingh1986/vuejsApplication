@@ -6,6 +6,8 @@ yarn <br/>
 yarn run dev <br/>
 yarn run build <br/>
 
+<br>
+Build Status :
 <hr/>
 
 [![Build Status](https://travis-ci.org/robindersingh1986/vuejsApplication.svg?branch=master)](https://travis-ci.org/robindersingh1986/vuejsApplication)
