@@ -1,21 +1,15 @@
-# society-management
+npm install -g vue-cli <br/>
+vue init webpack appname <br/>
+cd appname <br/>
+npm install yarn -g <br/>
+yarn <br/>
+yarn run dev <br/>
+yarn run build <br/>
 
-> Society management application built on top of vue js
+<br>
+Build Status :
+<hr/>
 
-## Build Setup
+[![Build Status](https://travis-ci.org/robindersingh1986/vuejsApplication.svg?branch=master)](https://travis-ci.org/robindersingh1986/vuejsApplication)
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+<hr/>
